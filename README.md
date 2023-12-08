@@ -1,4 +1,4 @@
-# Consumer-Goods-Analysis
+# Consumer Goods Analysis
 
 # Problem Statement-
 
